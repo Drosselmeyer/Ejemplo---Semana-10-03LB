@@ -1,0 +1,36 @@
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\Ejemplo Registro Notas.dll.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\Ejemplo Registro Notas.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\Ejemplo Registro Notas.pdb
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\csc.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\csc.exe.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\csc.rsp
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\csi.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\csi.rsp
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\System.AppContext.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\vbc.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\vbc.exe.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\vbc.rsp
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\obj\Debug\Ejemplo Registro Notas.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\obj\Debug\Ejemplo Registro Notas.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\obj\Debug\Ejemplo Registro Notas.csproj.CopyComplete
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\obj\Debug\Ejemplo Registro Notas.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 10 03LB\Ejemplo Registro Notas\obj\Debug\Ejemplo Registro Notas.pdb
